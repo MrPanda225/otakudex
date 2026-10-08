@@ -1,0 +1,14 @@
+node_modules/
+web/dist/
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.data/
+backups/
+*.log
+.DS_Store
+
+# Generated or machine-specific
+graphify-out/
+.claude/

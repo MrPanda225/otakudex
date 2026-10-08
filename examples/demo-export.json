@@ -1,0 +1,1477 @@
+{
+ "format": "otakudex-export",
+ "version": 1,
+ "exportedAt": "2026-10-08T00:00:00.000Z",
+ "entries": [
+  {
+   "media": {
+    "kitsuId": 46474,
+    "title": "Sousou no Frieren",
+    "titleEn": "Frieren: Beyond Journey’s End",
+    "titleJa": "葬送のフリーレン",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 28,
+    "episodeLengthMin": 24,
+    "startDate": "2023-09-29",
+    "endDate": "2024-03-22",
+    "genres": [
+     "Fantasy",
+     "Adventure",
+     "Drama",
+     "Magic",
+     "Shounen",
+     "Slice of Life"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/46474/poster_image/medium-23e1293e41a0b54b6621eb589c3f0d62.jpeg",
+    "communityScore": 88.83
+   },
+   "status": "watching",
+   "progress": 18,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": "2026-09-16",
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-09-13T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-09-16T20:25:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-09-16T19:04:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-09-19T21:37:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-09-20T19:05:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-09-22T19:15:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-09-22T19:35:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-09-24T23:07:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-09-25T23:37:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-09-27T20:02:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-09-30T21:26:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-10-01T23:19:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-10-04T19:37:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-10-07T21:06:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-10-07T23:03:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-10-07T22:43:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-10-07T21:29:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-10-07T23:59:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-10-07T21:15:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 1,
+    "title": "Cowboy Bebop",
+    "titleEn": "Cowboy Bebop",
+    "titleJa": "カウボーイビバップ",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 26,
+    "episodeLengthMin": 25,
+    "startDate": "1998-04-03",
+    "endDate": "1999-04-24",
+    "genres": [
+     "Space",
+     "Drama",
+     "Action",
+     "Post Apocalypse",
+     "Detective"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/1/medium.jpg",
+    "communityScore": 82.27
+   },
+   "status": "completed",
+   "progress": 26,
+   "rewatchCount": 0,
+   "bucket": "loved",
+   "rankPosition": 3,
+   "startedOn": "2026-02-19",
+   "completedOn": "2026-04-09",
+   "note": null,
+   "createdAt": "2026-02-16T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-02-19T20:05:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-02-19T23:19:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-02-19T23:31:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-02-23T22:18:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-02-23T23:04:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-02-23T19:32:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-02-28T21:09:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-03-05T19:42:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-03-05T19:48:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-03-09T21:38:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-03-09T22:37:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-03-14T19:17:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-03-19T19:03:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-03-19T21:41:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-03-19T23:43:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-03-24T22:56:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-03-24T21:01:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-03-29T20:39:00Z"
+    },
+    {
+     "episodeNumber": 19,
+     "watchedAt": "2026-03-29T19:31:00Z"
+    },
+    {
+     "episodeNumber": 20,
+     "watchedAt": "2026-03-31T21:08:00Z"
+    },
+    {
+     "episodeNumber": 21,
+     "watchedAt": "2026-04-03T22:58:00Z"
+    },
+    {
+     "episodeNumber": 22,
+     "watchedAt": "2026-04-03T22:05:00Z"
+    },
+    {
+     "episodeNumber": 23,
+     "watchedAt": "2026-04-06T22:35:00Z"
+    },
+    {
+     "episodeNumber": 24,
+     "watchedAt": "2026-04-06T21:56:00Z"
+    },
+    {
+     "episodeNumber": 25,
+     "watchedAt": "2026-04-09T23:17:00Z"
+    },
+    {
+     "episodeNumber": 26,
+     "watchedAt": "2026-04-09T22:22:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 5646,
+    "title": "Steins;Gate",
+    "titleEn": "Steins;Gate",
+    "titleJa": "STEINS;GATE",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 24,
+    "episodeLengthMin": 24,
+    "startDate": "2011-04-06",
+    "endDate": "2011-09-14",
+    "genres": [
+     "Comedy",
+     "Thriller",
+     "Time Travel",
+     "Drama"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/5646/medium.jpg",
+    "communityScore": 82.35
+   },
+   "status": "completed",
+   "progress": 24,
+   "rewatchCount": 0,
+   "bucket": "loved",
+   "rankPosition": 1,
+   "startedOn": "2026-03-21",
+   "completedOn": "2026-04-09",
+   "note": null,
+   "createdAt": "2026-03-18T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-03-21T20:05:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-03-21T20:09:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-03-23T20:00:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-03-23T22:53:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-03-23T23:11:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-03-23T21:18:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-03-24T22:34:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-03-24T21:39:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-03-27T23:39:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-03-27T19:29:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-03-31T22:25:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-03-31T19:30:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-03-31T22:03:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-04-02T20:28:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-04-02T20:07:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-04-05T19:06:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-04-05T19:36:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-04-05T20:34:00Z"
+    },
+    {
+     "episodeNumber": 19,
+     "watchedAt": "2026-04-05T19:23:00Z"
+    },
+    {
+     "episodeNumber": 20,
+     "watchedAt": "2026-04-06T20:39:00Z"
+    },
+    {
+     "episodeNumber": 21,
+     "watchedAt": "2026-04-06T22:09:00Z"
+    },
+    {
+     "episodeNumber": 22,
+     "watchedAt": "2026-04-09T23:23:00Z"
+    },
+    {
+     "episodeNumber": 23,
+     "watchedAt": "2026-04-09T22:07:00Z"
+    },
+    {
+     "episodeNumber": 24,
+     "watchedAt": "2026-04-09T19:54:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 3936,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "titleEn": "Fullmetal Alchemist: Brotherhood",
+    "titleJa": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 64,
+    "episodeLengthMin": 24,
+    "startDate": "2009-04-05",
+    "endDate": "2010-07-04",
+    "genres": [
+     "Fantasy",
+     "Adventure",
+     "Action",
+     "Magic",
+     "Military",
+     "Shounen"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/3936/medium.jpg",
+    "communityScore": 83.05
+   },
+   "status": "completed",
+   "progress": 64,
+   "rewatchCount": 0,
+   "bucket": "loved",
+   "rankPosition": 2,
+   "startedOn": "2026-04-20",
+   "completedOn": "2026-06-05",
+   "note": null,
+   "createdAt": "2026-04-17T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-04-20T22:30:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-04-20T21:05:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-04-20T20:06:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-04-20T21:47:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-04-20T21:30:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-04-23T23:01:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-04-23T20:33:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-04-23T21:09:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-04-26T23:19:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-04-26T19:44:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-04-28T20:22:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-04-28T20:34:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-04-28T23:49:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-04-28T23:21:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-05-01T23:51:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-05-01T20:51:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-05-01T20:52:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-05-03T20:33:00Z"
+    },
+    {
+     "episodeNumber": 19,
+     "watchedAt": "2026-05-03T22:22:00Z"
+    },
+    {
+     "episodeNumber": 20,
+     "watchedAt": "2026-05-03T19:01:00Z"
+    },
+    {
+     "episodeNumber": 21,
+     "watchedAt": "2026-05-05T21:12:00Z"
+    },
+    {
+     "episodeNumber": 22,
+     "watchedAt": "2026-05-05T23:22:00Z"
+    },
+    {
+     "episodeNumber": 23,
+     "watchedAt": "2026-05-05T22:51:00Z"
+    },
+    {
+     "episodeNumber": 24,
+     "watchedAt": "2026-05-05T21:23:00Z"
+    },
+    {
+     "episodeNumber": 25,
+     "watchedAt": "2026-05-05T19:14:00Z"
+    },
+    {
+     "episodeNumber": 26,
+     "watchedAt": "2026-05-06T22:12:00Z"
+    },
+    {
+     "episodeNumber": 27,
+     "watchedAt": "2026-05-06T21:13:00Z"
+    },
+    {
+     "episodeNumber": 28,
+     "watchedAt": "2026-05-06T22:39:00Z"
+    },
+    {
+     "episodeNumber": 29,
+     "watchedAt": "2026-05-09T22:58:00Z"
+    },
+    {
+     "episodeNumber": 30,
+     "watchedAt": "2026-05-09T21:51:00Z"
+    },
+    {
+     "episodeNumber": 31,
+     "watchedAt": "2026-05-12T19:58:00Z"
+    },
+    {
+     "episodeNumber": 32,
+     "watchedAt": "2026-05-12T22:50:00Z"
+    },
+    {
+     "episodeNumber": 33,
+     "watchedAt": "2026-05-15T22:56:00Z"
+    },
+    {
+     "episodeNumber": 34,
+     "watchedAt": "2026-05-15T20:27:00Z"
+    },
+    {
+     "episodeNumber": 35,
+     "watchedAt": "2026-05-15T21:05:00Z"
+    },
+    {
+     "episodeNumber": 36,
+     "watchedAt": "2026-05-18T22:25:00Z"
+    },
+    {
+     "episodeNumber": 37,
+     "watchedAt": "2026-05-18T19:46:00Z"
+    },
+    {
+     "episodeNumber": 38,
+     "watchedAt": "2026-05-18T20:10:00Z"
+    },
+    {
+     "episodeNumber": 39,
+     "watchedAt": "2026-05-18T20:01:00Z"
+    },
+    {
+     "episodeNumber": 40,
+     "watchedAt": "2026-05-18T20:37:00Z"
+    },
+    {
+     "episodeNumber": 41,
+     "watchedAt": "2026-05-20T23:52:00Z"
+    },
+    {
+     "episodeNumber": 42,
+     "watchedAt": "2026-05-20T23:30:00Z"
+    },
+    {
+     "episodeNumber": 43,
+     "watchedAt": "2026-05-20T21:09:00Z"
+    },
+    {
+     "episodeNumber": 44,
+     "watchedAt": "2026-05-23T19:00:00Z"
+    },
+    {
+     "episodeNumber": 45,
+     "watchedAt": "2026-05-23T19:33:00Z"
+    },
+    {
+     "episodeNumber": 46,
+     "watchedAt": "2026-05-23T20:27:00Z"
+    },
+    {
+     "episodeNumber": 47,
+     "watchedAt": "2026-05-24T19:16:00Z"
+    },
+    {
+     "episodeNumber": 48,
+     "watchedAt": "2026-05-24T20:18:00Z"
+    },
+    {
+     "episodeNumber": 49,
+     "watchedAt": "2026-05-24T23:15:00Z"
+    },
+    {
+     "episodeNumber": 50,
+     "watchedAt": "2026-05-27T21:34:00Z"
+    },
+    {
+     "episodeNumber": 51,
+     "watchedAt": "2026-05-27T22:53:00Z"
+    },
+    {
+     "episodeNumber": 52,
+     "watchedAt": "2026-05-27T20:03:00Z"
+    },
+    {
+     "episodeNumber": 53,
+     "watchedAt": "2026-05-27T21:57:00Z"
+    },
+    {
+     "episodeNumber": 54,
+     "watchedAt": "2026-05-29T23:08:00Z"
+    },
+    {
+     "episodeNumber": 55,
+     "watchedAt": "2026-05-29T23:09:00Z"
+    },
+    {
+     "episodeNumber": 56,
+     "watchedAt": "2026-05-29T23:32:00Z"
+    },
+    {
+     "episodeNumber": 57,
+     "watchedAt": "2026-05-29T19:55:00Z"
+    },
+    {
+     "episodeNumber": 58,
+     "watchedAt": "2026-05-29T22:49:00Z"
+    },
+    {
+     "episodeNumber": 59,
+     "watchedAt": "2026-05-30T20:11:00Z"
+    },
+    {
+     "episodeNumber": 60,
+     "watchedAt": "2026-05-30T20:30:00Z"
+    },
+    {
+     "episodeNumber": 61,
+     "watchedAt": "2026-06-02T23:03:00Z"
+    },
+    {
+     "episodeNumber": 62,
+     "watchedAt": "2026-06-02T21:43:00Z"
+    },
+    {
+     "episodeNumber": 63,
+     "watchedAt": "2026-06-05T19:56:00Z"
+    },
+    {
+     "episodeNumber": 64,
+     "watchedAt": "2026-06-05T23:03:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 1376,
+    "title": "Death Note",
+    "titleEn": "Death Note",
+    "titleJa": "デスノート",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 37,
+    "episodeLengthMin": 23,
+    "startDate": "2006-10-04",
+    "endDate": "2007-06-27",
+    "genres": [
+     "Thriller",
+     "Detective",
+     "Psychological",
+     "Mystery",
+     "Shounen"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/1376/medium.jpg",
+    "communityScore": 83.05
+   },
+   "status": "completed",
+   "progress": 37,
+   "rewatchCount": 0,
+   "bucket": "liked",
+   "rankPosition": 5,
+   "startedOn": "2026-06-09",
+   "completedOn": "2026-07-10",
+   "note": null,
+   "createdAt": "2026-06-06T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-06-09T21:02:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-06-09T19:32:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-06-12T19:48:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-06-12T19:28:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-06-12T21:39:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-06-12T23:38:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-06-16T21:28:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-06-16T23:34:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-06-19T20:44:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-06-19T23:56:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-06-19T21:59:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-06-19T23:57:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-06-21T20:26:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-06-21T19:25:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-06-21T22:20:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-06-23T20:27:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-06-23T19:13:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-06-23T21:50:00Z"
+    },
+    {
+     "episodeNumber": 19,
+     "watchedAt": "2026-06-23T19:57:00Z"
+    },
+    {
+     "episodeNumber": 20,
+     "watchedAt": "2026-06-25T21:09:00Z"
+    },
+    {
+     "episodeNumber": 21,
+     "watchedAt": "2026-06-25T21:56:00Z"
+    },
+    {
+     "episodeNumber": 22,
+     "watchedAt": "2026-06-25T20:29:00Z"
+    },
+    {
+     "episodeNumber": 23,
+     "watchedAt": "2026-06-25T20:47:00Z"
+    },
+    {
+     "episodeNumber": 24,
+     "watchedAt": "2026-06-27T22:10:00Z"
+    },
+    {
+     "episodeNumber": 25,
+     "watchedAt": "2026-06-27T20:10:00Z"
+    },
+    {
+     "episodeNumber": 26,
+     "watchedAt": "2026-06-27T22:32:00Z"
+    },
+    {
+     "episodeNumber": 27,
+     "watchedAt": "2026-06-30T22:12:00Z"
+    },
+    {
+     "episodeNumber": 28,
+     "watchedAt": "2026-06-30T21:20:00Z"
+    },
+    {
+     "episodeNumber": 29,
+     "watchedAt": "2026-06-30T19:46:00Z"
+    },
+    {
+     "episodeNumber": 30,
+     "watchedAt": "2026-07-03T21:35:00Z"
+    },
+    {
+     "episodeNumber": 31,
+     "watchedAt": "2026-07-03T22:28:00Z"
+    },
+    {
+     "episodeNumber": 32,
+     "watchedAt": "2026-07-07T22:21:00Z"
+    },
+    {
+     "episodeNumber": 33,
+     "watchedAt": "2026-07-07T23:39:00Z"
+    },
+    {
+     "episodeNumber": 34,
+     "watchedAt": "2026-07-10T19:07:00Z"
+    },
+    {
+     "episodeNumber": 35,
+     "watchedAt": "2026-07-10T20:56:00Z"
+    },
+    {
+     "episodeNumber": 36,
+     "watchedAt": "2026-07-10T19:05:00Z"
+    },
+    {
+     "episodeNumber": 37,
+     "watchedAt": "2026-07-10T21:17:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 176,
+    "title": "Spirited Away",
+    "titleEn": "Spirited Away",
+    "titleJa": "千と千尋の神隠し",
+    "synopsis": null,
+    "subtype": "movie",
+    "airingStatus": "finished",
+    "episodeCount": 1,
+    "episodeLengthMin": 125,
+    "startDate": "2001-07-20",
+    "endDate": "2001-07-20",
+    "genres": [
+     "Magic",
+     "Fantasy",
+     "Adventure",
+     "Isekai",
+     "Drama",
+     "Supernatural",
+     "Romance"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/176/medium.jpg",
+    "communityScore": 82.73
+   },
+   "status": "completed",
+   "progress": 1,
+   "rewatchCount": 0,
+   "bucket": "loved",
+   "rankPosition": 4,
+   "startedOn": "2026-07-04",
+   "completedOn": "2026-07-04",
+   "note": null,
+   "createdAt": "2026-07-01T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-07-04T21:48:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 419,
+    "title": "Mushishi",
+    "titleEn": "Mushi-Shi",
+    "titleJa": "蟲師",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 26,
+    "episodeLengthMin": 25,
+    "startDate": "2005-10-23",
+    "endDate": "2006-06-19",
+    "genres": [
+     "Fantasy",
+     "Slice of Life",
+     "Detective",
+     "Drama",
+     "Historical"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/419/medium.jpg",
+    "communityScore": 82
+   },
+   "status": "completed",
+   "progress": 26,
+   "rewatchCount": 0,
+   "bucket": "meh",
+   "rankPosition": 6,
+   "startedOn": "2026-07-19",
+   "completedOn": "2026-10-07",
+   "note": null,
+   "createdAt": "2026-07-16T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-07-19T21:25:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-07-19T20:34:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-07-26T21:05:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-07-26T21:03:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-07-30T19:17:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-07-30T19:40:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-08-02T19:38:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-08-02T20:04:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-08-07T22:00:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-08-12T21:39:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-08-12T20:02:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-08-19T19:10:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-08-24T20:12:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-08-29T23:48:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-08-29T20:18:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-09-04T21:22:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-09-07T19:00:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-09-07T19:46:00Z"
+    },
+    {
+     "episodeNumber": 19,
+     "watchedAt": "2026-09-14T23:30:00Z"
+    },
+    {
+     "episodeNumber": 20,
+     "watchedAt": "2026-09-18T19:42:00Z"
+    },
+    {
+     "episodeNumber": 21,
+     "watchedAt": "2026-09-18T22:42:00Z"
+    },
+    {
+     "episodeNumber": 22,
+     "watchedAt": "2026-09-24T23:19:00Z"
+    },
+    {
+     "episodeNumber": 23,
+     "watchedAt": "2026-09-24T20:14:00Z"
+    },
+    {
+     "episodeNumber": 24,
+     "watchedAt": "2026-09-29T20:25:00Z"
+    },
+    {
+     "episodeNumber": 25,
+     "watchedAt": "2026-10-04T20:00:00Z"
+    },
+    {
+     "episodeNumber": 26,
+     "watchedAt": "2026-10-07T22:10:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 7442,
+    "title": "Attack on Titan",
+    "titleEn": "Attack on Titan",
+    "titleJa": "進撃の巨人",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 25,
+    "episodeLengthMin": 24,
+    "startDate": "2013-04-07",
+    "endDate": "2013-09-29",
+    "genres": [
+     "Post Apocalypse",
+     "Action",
+     "Adventure",
+     "Fantasy",
+     "Horror",
+     "Drama",
+     "Military",
+     "Super Power"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/7442/medium.jpg",
+    "communityScore": 84.42
+   },
+   "status": "watching",
+   "progress": 9,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": "2026-09-28",
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-09-25T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-09-28T22:55:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-09-30T20:44:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-09-30T21:02:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-09-30T22:11:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-10-01T22:00:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-10-01T21:23:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-10-03T21:15:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-10-03T19:56:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-10-03T21:13:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 13273,
+    "title": "Made in Abyss",
+    "titleEn": null,
+    "titleJa": "メイドインアビス",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 13,
+    "episodeLengthMin": 26,
+    "startDate": "2017-07-07",
+    "endDate": "2017-09-29",
+    "genres": [
+     "Fantasy",
+     "Drama",
+     "Adventure",
+     "Psychological"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/13273/medium.jpg",
+    "communityScore": 82.25
+   },
+   "status": "planned",
+   "progress": 0,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": null,
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-08-28T10:00:00.000Z",
+   "log": []
+  },
+  {
+   "media": {
+    "kitsuId": 41370,
+    "title": "Kimetsu no Yaiba",
+    "titleEn": "Demon Slayer: Kimetsu no Yaiba",
+    "titleJa": "鬼滅の刃",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 26,
+    "episodeLengthMin": 23,
+    "startDate": "2019-04-06",
+    "endDate": "2019-09-28",
+    "genres": [
+     "Adventure",
+     "Action",
+     "Historical",
+     "Shounen",
+     "Fantasy",
+     "Supernatural"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/41370/medium.jpg",
+    "communityScore": 86.24
+   },
+   "status": "planned",
+   "progress": 0,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": null,
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-07-04T10:00:00.000Z",
+   "log": []
+  },
+  {
+   "media": {
+    "kitsuId": 142,
+    "title": "Princess Mononoke",
+    "titleEn": "Princess Mononoke",
+    "titleJa": "もののけ姫",
+    "synopsis": null,
+    "subtype": "movie",
+    "airingStatus": "finished",
+    "episodeCount": 1,
+    "episodeLengthMin": 130,
+    "startDate": "1997-07-12",
+    "endDate": "1997-07-12",
+    "genres": [
+     "Action",
+     "Adventure",
+     "Fantasy",
+     "Samurai"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/142/poster_image/medium-9b2569d9191a65fd9d2db126320a47af.jpeg",
+    "communityScore": 82.29
+   },
+   "status": "planned",
+   "progress": 0,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": null,
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-05-10T10:00:00.000Z",
+   "log": []
+  },
+  {
+   "media": {
+    "kitsuId": 41084,
+    "title": "Vinland Saga",
+    "titleEn": "Vinland Saga",
+    "titleJa": "ヴィンランド・サガ",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 24,
+    "episodeLengthMin": 25,
+    "startDate": "2019-07-08",
+    "endDate": "2019-12-30",
+    "genres": [
+     "Adventure",
+     "Action",
+     "Historical",
+     "Seinen",
+     "Drama",
+     "Military"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/41084/medium.jpg",
+    "communityScore": 82.77
+   },
+   "status": "planned",
+   "progress": 0,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": null,
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-03-16T10:00:00.000Z",
+   "log": []
+  },
+  {
+   "media": {
+    "kitsuId": 6448,
+    "title": "Hunter x Hunter (2011)",
+    "titleEn": "Hunter x Hunter (2011)",
+    "titleJa": "HUNTER×HUNTER ハンターハンター",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 148,
+    "episodeLengthMin": 23,
+    "startDate": "2011-10-02",
+    "endDate": "2014-09-24",
+    "genres": [
+     "Adventure",
+     "Action",
+     "Drama",
+     "Super Power",
+     "Shounen"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/6448/medium.jpg",
+    "communityScore": 84.17
+   },
+   "status": "paused",
+   "progress": 40,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": "2026-08-08",
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-08-05T10:00:00.000Z",
+   "log": [
+    {
+     "episodeNumber": 1,
+     "watchedAt": "2026-08-08T19:21:00Z"
+    },
+    {
+     "episodeNumber": 2,
+     "watchedAt": "2026-08-14T22:17:00Z"
+    },
+    {
+     "episodeNumber": 3,
+     "watchedAt": "2026-08-21T20:15:00Z"
+    },
+    {
+     "episodeNumber": 4,
+     "watchedAt": "2026-08-21T23:49:00Z"
+    },
+    {
+     "episodeNumber": 5,
+     "watchedAt": "2026-08-21T19:05:00Z"
+    },
+    {
+     "episodeNumber": 6,
+     "watchedAt": "2026-08-26T20:25:00Z"
+    },
+    {
+     "episodeNumber": 7,
+     "watchedAt": "2026-09-02T22:01:00Z"
+    },
+    {
+     "episodeNumber": 8,
+     "watchedAt": "2026-09-07T20:05:00Z"
+    },
+    {
+     "episodeNumber": 9,
+     "watchedAt": "2026-09-07T23:33:00Z"
+    },
+    {
+     "episodeNumber": 10,
+     "watchedAt": "2026-09-11T23:24:00Z"
+    },
+    {
+     "episodeNumber": 11,
+     "watchedAt": "2026-09-11T21:46:00Z"
+    },
+    {
+     "episodeNumber": 12,
+     "watchedAt": "2026-09-11T22:09:00Z"
+    },
+    {
+     "episodeNumber": 13,
+     "watchedAt": "2026-09-16T23:41:00Z"
+    },
+    {
+     "episodeNumber": 14,
+     "watchedAt": "2026-09-16T20:02:00Z"
+    },
+    {
+     "episodeNumber": 15,
+     "watchedAt": "2026-09-16T23:40:00Z"
+    },
+    {
+     "episodeNumber": 16,
+     "watchedAt": "2026-09-22T23:08:00Z"
+    },
+    {
+     "episodeNumber": 17,
+     "watchedAt": "2026-09-22T23:48:00Z"
+    },
+    {
+     "episodeNumber": 18,
+     "watchedAt": "2026-09-22T23:36:00Z"
+    },
+    {
+     "episodeNumber": 19,
+     "watchedAt": "2026-09-25T23:51:00Z"
+    },
+    {
+     "episodeNumber": 20,
+     "watchedAt": "2026-09-25T20:05:00Z"
+    },
+    {
+     "episodeNumber": 21,
+     "watchedAt": "2026-09-25T19:02:00Z"
+    },
+    {
+     "episodeNumber": 22,
+     "watchedAt": "2026-09-29T21:06:00Z"
+    },
+    {
+     "episodeNumber": 23,
+     "watchedAt": "2026-09-29T22:53:00Z"
+    },
+    {
+     "episodeNumber": 24,
+     "watchedAt": "2026-09-29T22:35:00Z"
+    },
+    {
+     "episodeNumber": 25,
+     "watchedAt": "2026-10-02T19:40:00Z"
+    },
+    {
+     "episodeNumber": 26,
+     "watchedAt": "2026-10-02T23:43:00Z"
+    },
+    {
+     "episodeNumber": 27,
+     "watchedAt": "2026-10-02T20:31:00Z"
+    },
+    {
+     "episodeNumber": 28,
+     "watchedAt": "2026-10-07T22:51:00Z"
+    },
+    {
+     "episodeNumber": 29,
+     "watchedAt": "2026-10-07T23:57:00Z"
+    },
+    {
+     "episodeNumber": 30,
+     "watchedAt": "2026-10-07T23:05:00Z"
+    },
+    {
+     "episodeNumber": 31,
+     "watchedAt": "2026-10-07T23:04:00Z"
+    },
+    {
+     "episodeNumber": 32,
+     "watchedAt": "2026-10-07T22:16:00Z"
+    },
+    {
+     "episodeNumber": 33,
+     "watchedAt": "2026-10-07T19:54:00Z"
+    },
+    {
+     "episodeNumber": 34,
+     "watchedAt": "2026-10-07T21:15:00Z"
+    },
+    {
+     "episodeNumber": 35,
+     "watchedAt": "2026-10-07T20:47:00Z"
+    },
+    {
+     "episodeNumber": 36,
+     "watchedAt": "2026-10-07T22:54:00Z"
+    },
+    {
+     "episodeNumber": 37,
+     "watchedAt": "2026-10-07T22:04:00Z"
+    },
+    {
+     "episodeNumber": 38,
+     "watchedAt": "2026-10-07T21:49:00Z"
+    },
+    {
+     "episodeNumber": 39,
+     "watchedAt": "2026-10-07T19:39:00Z"
+    },
+    {
+     "episodeNumber": 40,
+     "watchedAt": "2026-10-07T20:04:00Z"
+    }
+   ]
+  },
+  {
+   "media": {
+    "kitsuId": 244,
+    "title": "BLEACH",
+    "titleEn": "Bleach",
+    "titleJa": "BLEACH - ブリーチ -",
+    "synopsis": null,
+    "subtype": "TV",
+    "airingStatus": "finished",
+    "episodeCount": 366,
+    "episodeLengthMin": 24,
+    "startDate": "2004-10-05",
+    "endDate": "2012-03-27",
+    "genres": [
+     "Action",
+     "Martial Arts",
+     "Super Power",
+     "Comedy"
+    ],
+    "posterUrl": "https://media.kitsu.app/anime/poster_images/244/medium.jpg",
+    "communityScore": 77.38
+   },
+   "status": "dropped",
+   "progress": 62,
+   "rewatchCount": 0,
+   "bucket": null,
+   "rankPosition": null,
+   "startedOn": null,
+   "completedOn": null,
+   "note": null,
+   "createdAt": "2026-10-07T22:45:18.109Z",
+   "log": []
+  }
+ ]
+}

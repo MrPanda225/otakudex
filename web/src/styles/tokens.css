@@ -1,0 +1,92 @@
+/*
+  Design tokens. Components only ever use these names, never raw colours.
+  Concept: the Dex is a binder of trading cards drawn like a manga page (heavy ink borders,
+  hard offset shadows). Light and dark are designed separately, not inverted.
+*/
+:root {
+  /* colour */
+  --bg: #f4f5fb;
+  --surface: #ffffff;
+  --surface-alt: #e9ebf8;
+  --ink: #14152b;
+  --muted: #585b76;
+  --accent: #3a46ff;
+  --on-accent: #ffffff;
+  --highlight: #ffd93d;
+  --on-highlight: #14152b;
+  --sakura: #ff6b9d;
+  --on-sakura: #14152b;
+  --success: #17805a;
+  --danger: #c8213f;
+  --shadow-color: #14152b;
+  --backdrop: rgb(20 21 43 / 0.55);
+
+  /* tiers: every fill is paired with a text colour that keeps 4.5:1 */
+  --tier-s: #ffd93d;
+  --tier-a: #ff6b9d;
+  --tier-b: #8f97ff;
+  --tier-c: #b9d9c9;
+  --tier-d: #cfd0dc;
+  --on-tier: #14152b;
+  --on-tier-d: #14152b;
+
+  /* charts: greys are the main tool, colour is kept for the one thing to look at */
+  --chart-muted: color-mix(in srgb, var(--ink) 50%, var(--surface));
+  --chart-axis: color-mix(in srgb, var(--ink) 70%, var(--surface));
+  --chart-grid: color-mix(in srgb, var(--ink) 14%, var(--surface));
+
+  /* type */
+  --font-display: 'Dela Gothic One', 'Arial Black', system-ui, sans-serif;
+  --font-body: 'Figtree Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5625rem;
+  --text-2xl: 1.9375rem;
+  --text-3xl: 2.4375rem;
+
+  /* space on a 4px grid, shape, motion */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-12: 3rem;
+  --radius: 10px;
+  --radius-lg: 16px;
+  --border: 2px solid var(--ink);
+  --shadow: 4px 4px 0 var(--shadow-color);
+  --shadow-small: 2px 2px 0 var(--shadow-color);
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --duration: 180ms;
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1020;
+    --surface: #191a33;
+    --surface-alt: #232547;
+    --ink: #eef0ff;
+    --muted: #a3a7cf;
+    --accent: #8a93ff;
+    --on-accent: #0f1020;
+    --sakura: #ff7fad;
+    --success: #46d39a;
+    --danger: #ff7a8f;
+    --shadow-color: #3b3f94;
+    --backdrop: rgb(5 6 20 / 0.7);
+
+    --tier-a: #ff7fad;
+    --tier-b: #8a93ff;
+    --tier-c: #7fcfae;
+    --tier-d: #565878;
+    --on-tier: #0f1020;
+    --on-tier-d: #f4f5ff;
+
+    color-scheme: dark;
+  }
+}
